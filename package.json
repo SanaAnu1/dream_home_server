@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon api/index.js",
-    "start": "node api/index.js",
-    "build":"npm install && npm install --prefix dream_home && npm run build --prefix dream_home"
+    "start": "node api/index.js"
   },
   "keywords": [],
   "author": "",
